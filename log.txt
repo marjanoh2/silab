@@ -1,0 +1,12 @@
+commit 5a04ce46bca0534731c965b533cde783a8d889f5 (HEAD -> logging, origin/master, master)
+Author: unknown <Marjan.Jankuloski@students.finki.ukim.mk>
+Date:   Fri Mar 23 16:21:29 2018 +0100
+
+    modify l1.txt
+
+commit c3ba75eccc1588ee9160c33f00c92d443ef4b5a4
+Author: unknown <Marjan.Jankuloski@students.finki.ukim.mk>
+Date:   Fri Mar 23 16:11:53 2018 +0100
+
+    Inital commmit
+
